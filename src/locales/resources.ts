@@ -16,6 +16,9 @@ export const locales = [
   'zh-CN',
   'zh-TW',
   'vi-VN',
+  'pl-PL',
+  'nl-NL',
+  'it-IT'
 ] as const;
 
 export type DefaultResources = typeof resources;

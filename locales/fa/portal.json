@@ -1,10 +1,10 @@
 {
-  "Artifacts": "Artifacts",
+  "Artifacts": "مصنوعات",
   "actions": {
-    "genAiMessage": "Generate Assistant Message",
-    "summary": "Summary",
-    "summaryTooltip": "Summarize current content"
+    "genAiMessage": "تولید پیام دستیار",
+    "summary": "خلاصه",
+    "summaryTooltip": "خلاصه‌سازی محتوای فعلی"
   },
-  "emptyArtifactList": "The current Artifacts list is empty. Please use plugins in the session as needed before viewing.",
-  "title": "Portal View"
+  "emptyArtifactList": "لیست مصنوعات فعلی خالی است. لطفاً قبل از مشاهده، از افزونه‌ها در جلسه استفاده کنید.",
+  "title": "نمای پورتال"
 }
