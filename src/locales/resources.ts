@@ -2,11 +2,11 @@ import resources from './default';
 
 export const locales = [
   'ar',
+  'fa',
   'bg-BG',
   'de-DE',
   'en-US',
   'es-ES',
-  'fa-IR',
   'fr-FR',
   'ja-JP',
   'ko-KR',
@@ -76,7 +76,7 @@ export const localeOptions: LocaleOptions = [
   },
   {
     label: 'فارسی',
-    value: 'fa-IR',
+    value: 'fa',
   },
   {
     label: 'Français',
