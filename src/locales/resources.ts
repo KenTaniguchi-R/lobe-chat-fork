@@ -6,6 +6,7 @@ export const locales = [
   'de-DE',
   'en-US',
   'es-ES',
+  'fa-IR',
   'fr-FR',
   'ja-JP',
   'ko-KR',
@@ -72,6 +73,10 @@ export const localeOptions: LocaleOptions = [
   {
     label: 'العربية',
     value: 'ar',
+  },
+  {
+    label: 'فارسی',
+    value: 'fa-IR',
   },
   {
     label: 'Français',
